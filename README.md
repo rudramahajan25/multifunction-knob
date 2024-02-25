@@ -14,4 +14,5 @@ Mode 2: Move mouse Horizotally
 Mode 3: Move cursor.
 
 Switch 1 press and hold CTRL button
+
 Switch 2 press and hold CTRL and C button
